@@ -1,0 +1,9 @@
+<templateSet group="mygroup">
+  <template name="/**" value="/**&#10; * 功能描述:&#10; * @param: $param$&#10; * @auther: he zhi&#10; * @date: $date$&#10; */" shortcut="TAB" description="my function comment" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
