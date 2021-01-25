@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogWidth" value="596" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="逻辑计算" />
+      <item value="逻辑" />
+      <item value="逻辑判断" />
+      <item value="验证计" />
+      <item value="验证计算" />
+      <item value="验证" />
       <item value="计算" />
       <item value="Returns &lt;tt&gt;true&lt;tt&gt; if this set contains the specified element. More formally, returns &lt;tt&gt;true&lt;tt&gt; if and only if this set contains an element &lt;tt&gt;e&lt;tt&gt; such that &lt;tt&gt;(o==null&amp;nbsp;?&amp;nbsp;e==null&amp;nbsp;:&amp;nbsp;o.equals(e))&lt;tt&gt;. @param o element whose presence in this set is to be tested @return &lt;tt&gt;true&lt;tt&gt; if this set contains the specified element @throws ClassCastException if the type of the specified element is incompatible with this set (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws NullPointerException if the specified element is null and this set does not permit null elements (&lt;a href=&quot;Collection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;)" />
     </histories>
