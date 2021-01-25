@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Analysys" />
+      <item value="Regex" />
+      <item value="表达式" />
       <item value="逻辑计算" />
       <item value="逻辑" />
       <item value="逻辑判断" />
