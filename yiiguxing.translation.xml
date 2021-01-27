@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="快速统计" />
+      <item value="快速" />
       <item value="百分比" />
       <item value="百分" />
       <item value="Analysys" />
@@ -25,6 +27,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611285802618" />
+    <option name="lastTrimTime" value="1611730216590" />
   </component>
 </application>
