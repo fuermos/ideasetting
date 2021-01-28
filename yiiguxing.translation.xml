@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="increase" />
+      <item value="增加" />
+      <item value="自增" />
+      <item value="z" />
       <item value="唯一" />
       <item value="only" />
       <item value="single" />
