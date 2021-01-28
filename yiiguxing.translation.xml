@@ -1,9 +1,18 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="唯一" />
+      <item value="only" />
+      <item value="single" />
+      <item value="sing" />
+      <item value="单" />
+      <item value="单例" />
+      <item value="da" />
+      <item value="s" />
+      <item value="重复" />
       <item value="快速统计" />
       <item value="快速" />
       <item value="百分比" />
