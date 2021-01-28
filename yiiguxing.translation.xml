@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="GREATER" />
       <item value="  /**&#10;   * Set whether entire row should be filtered if column is not found.&#10;   * &lt;p&gt;&#10;   * If true, the entire row will be skipped if the column is not found.&#10;   * &lt;p&gt;&#10;   * If false, the row will pass if the column is not found.  This is default.&#10;   * @param filterIfMissing flag&#10;   */" />
       <item value="increase" />
       <item value="增加" />
