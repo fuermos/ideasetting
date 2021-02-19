@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="760" />
     <option name="newTranslationDialogY" value="451" />
     <histories>
+      <item value="Determines if the class or interface represented by this Class object is either the same as, or is a superclass or superinterface of, the class or interface represented by the specified Class parameter. It returns true if so; otherwise it returns false. If this Class object represents a primitive type, this method returns true if the specified Class parameter is exactly this Class object; otherwise it returns false.&#10;Specifically, this method tests whether the type represented by the specified Class parameter can be converted to the type represented by this Class object via an identity conversion or via a widening reference conversion. See The Java Language Specification, sections 5.1.1 and 5.1.4 , for details.&#10;Params:&#10;cls – the Class object to be checked&#10;Returns:&#10;the boolean value indicating whether objects of the type cls can be assigned to objects of this class&#10;Throws:&#10;NullPointerException – if the specified Class parameter is null." />
+      <item value="Checks whether an object is an instance of given type without throwing exception when the class is not loaded. @param obj the object to check @param className String class @return true if object is assignable from the type, false otherwise or when the class cannot be loaded" />
       <item value="基数" />
       <item value=" User-space table qualifiers can only contain 'alphanumeric characters" />
       <item value="GREATER" />
@@ -39,11 +41,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612169293969" />
+    <option name="lastTrimTime" value="1613705347982" />
   </component>
 </application>
