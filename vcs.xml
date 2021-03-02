@@ -114,6 +114,10 @@
           <option name="url" value="http://101.200.172.206:8090/qualitiy/quanlity-poly-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://101.200.172.206:8090/businessPlatform/demo" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\git_repos\quilty_old" />
