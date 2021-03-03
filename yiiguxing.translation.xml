@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="562" />
+    <option name="newTranslationDialogWidth" value="560" />
     <option name="newTranslationDialogX" value="397" />
     <option name="newTranslationDialogY" value="361" />
     <histories>
+      <item value="Could not transfer metadata com.uqian.cactus:uqian-framework-build:0.0.8-SNAPSHOT/maven-metadata.xml from/to uqian-nexus-releases (http://101.200.172.206:8081/repository/maven-releases/): Failed to transfer file: http://101.200.172.206:8081/repository/maven-releases/com/uqian/cactus/uqian-framework-build/0.0.8-SNAPSHOT/maven-metadata.xml. Return code is: 400 , ReasonPhrase:Repository version policy: RELEASE does not allow metadata in path:" />
       <item value="platform " />
       <item value="Business " />
       <item value="Business platform" />
@@ -55,6 +56,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1614247608960" />
+    <option name="lastTrimTime" value="1614752769581" />
   </component>
 </application>
