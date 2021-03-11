@@ -1,9 +1,15 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="558" />
-    <option name="newTranslationDialogX" value="397" />
-    <option name="newTranslationDialogY" value="361" />
+    <option name="newTranslationDialogWidth" value="548" />
+    <option name="newTranslationDialogX" value="497" />
+    <option name="newTranslationDialogY" value="353" />
     <histories>
+      <item value="Represents the maximum size of the memstore after which the contents of the memstore are flushed to the filesystem. This defaults to a size of 64 MB.&#10;Params:&#10;memstoreFlushSize – memory cache flush size for each hregion" />
+      <item value="This method does nothing now. Flag ENCODE_ON_DISK is not used any more. Data blocks have the same encoding in cache as on disk.&#10;Deprecated&#10;As of release 0.98 (HBASE-9870 ). This will be removed in HBase 2.0.0. This method does nothing now.&#10;Returns:&#10;this (for chained invocation)" />
+      <item value="Compression types supported in hbase. LZO is not bundled as part of the hbase distribution. See LZO Compression  for how to enable it.&#10;Params:&#10;type – Compression type setting.&#10;Returns:&#10;this (for chained invocation)" />
+      <item value="blockCacheEnabled – True if hfile DATA type blocks should be cached (We always cache INDEX and BLOOM blocks; you cannot turn this off).&#10;Returns:&#10;this (for chained invocation)" />
+      <item value="  /**&#10;   * &lt;em&gt; INTERNAL &lt;/em&gt; Used to denote if the current table represents&#10;   * &lt;code&gt; -ROOT- &lt;/code&gt; region. This is used internally by the&#10;   * HTableDescriptor constructors&#10;   *" />
+      <item value="INTERNAL Used by HBase Shell interface to access this metadata attribute which denotes if the table is compaction enabled&#10;See Also" />
       <item value=" This client just lost it's session with ZooKeeper, closing it. It will be recreated next time someone needs it" />
       <item value="Could not transfer metadata com.uqian.cactus:uqian-framework-build:0.0.8-SNAPSHOT/maven-metadata.xml from/to uqian-nexus-releases (http://101.200.172.206:8081/repository/maven-releases/): Failed to transfer file: http://101.200.172.206:8081/repository/maven-releases/com/uqian/cactus/uqian-framework-build/0.0.8-SNAPSHOT/maven-metadata.xml. Return code is: 400 , ReasonPhrase:Repository version policy: RELEASE does not allow metadata in path:" />
       <item value="platform " />
