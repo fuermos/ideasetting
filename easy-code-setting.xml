@@ -1,5 +1,6 @@
 <application>
   <component name="EasyCodeSetting">
+    <option name="author" value="hezhi" />
     <option name="typeMapperGroupMap">
       <map>
         <entry key="Default">
